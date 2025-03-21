@@ -1,4 +1,4 @@
-# SigLIP Vision Transformer
+# SigLIP Vision Transformer Encoder Implementation
 
 
 ![Vision Transformer Architecture](https://viso.ai/wp-content/uploads/2021/09/vision-transformer-vit.png)
@@ -40,20 +40,6 @@ Ensure you have Python 3.8+ installed. Then, install the required dependencies:
 
 ```sh
 pip install numpy torch torchvision matplotlib
-```
-
-## Usage
-
-To run the Vision Transformer model on an image dataset, use the following command:
-
-```sh
-python mainModule.py --dataset <path_to_dataset>
-```
-
-Example:
-
-```sh
-python mainModule.py --dataset ./data/images
 ```
 
 ## Example Code
