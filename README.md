@@ -1,7 +1,7 @@
 # SigLIP Vision Transformer
 
 
-![Vision Transformer Architecture]([https://viso.ai/wp-content/uploads/2021/09/vision-transformer-vit.png])
+![Vision Transformer Architecture](https://viso.ai/wp-content/uploads/2021/09/vision-transformer-vit.png)
 
 
 ## Overview
@@ -70,6 +70,6 @@ print(model)
 - [SigLIP: Scaling Vision-Language Models with Sigmoid Loss](https://arxiv.org/abs/2303.15343)
 
 --
-![Meme]([https://pbs.twimg.com/media/F31g75LXkAAVdEk.jpg])
+![Meme](https://pbs.twimg.com/media/F31g75LXkAAVdEk.jpg)
 
 
